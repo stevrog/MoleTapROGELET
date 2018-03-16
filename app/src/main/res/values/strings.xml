@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoleTap</string>
+    <string name="nbPoint">Nombre de point</string>
+    <string name="missMole">Taupes manquées</string>
+    <string name="minReaction">Reaction min (ms)</string>
+    <string name="maxReaction">Reaction max (ms)</string>
+    <string name="avgReaction">Reaction moyenne (ms)</string>
+</resources>
